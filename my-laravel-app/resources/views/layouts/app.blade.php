@@ -17,7 +17,7 @@
                 <div class="menu">
                     <ul>
                         <li><a href="{{ route('register_book') }}">登録するかも</a></li>
-                        <li><a href="{{ route('show_books')}}">一覧です</a></li>
+                        <li><a href="{{ route('show_books')}}">一覧です1</a></li>
                     </ul>                
                 </div>
             </div>
